@@ -1,0 +1,1 @@
+# wyszukiwanie-maximum-funkcji
